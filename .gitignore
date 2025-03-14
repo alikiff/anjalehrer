@@ -1,0 +1,5 @@
+test.ipynb
+src/.env
+.vscode/launch.json
+src/__pycache__/*
+.vscode/*
